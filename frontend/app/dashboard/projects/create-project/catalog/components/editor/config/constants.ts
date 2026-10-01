@@ -1,0 +1,16 @@
+export const HERO_IMAGE_UPLOAD_TEMPLATES = new Set([
+  "simple",
+  "editorial-luxe",
+  "organic-nature",
+  "warm-living",
+  "noir-atelier",
+  "maison-luxe",
+  "arch-window",
+  "voltex-tech",
+  "rivaara-jewellery",
+  "vertical-split",
+  "modern-grid",
+  "luxury-desert",
+  "corner-editorial",
+  "dark-strip",
+]);
